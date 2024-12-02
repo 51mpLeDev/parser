@@ -1,0 +1,11 @@
+{
+    "require": {
+        "spatie/async": "^1.6"
+    },
+    "autoload": {
+        "files": [
+            "functions.php",
+            "simplehtmldom/simple_html_dom.php"
+        ]
+    }
+}
